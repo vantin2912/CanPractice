@@ -1,0 +1,2 @@
+../Core/MyPrintf/MyPrintf.c:22:7:MyPrintf_Init	8	static
+../Core/MyPrintf/MyPrintf.c:27:5:MyPrintf	120	static
